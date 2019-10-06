@@ -1,15 +1,7 @@
-node-cache
+node-cache-promise
 ===========
-
-[![Build Status](https://secure.travis-ci.org/mpneuried/nodecache.svg?branch=master)](http://travis-ci.org/mpneuried/nodecache)
-[![Windows Tests](https://img.shields.io/appveyor/ci/mpneuried/nodecache.svg?label=Windows%20Test)](https://ci.appveyor.com/project/mpneuried/nodecache)
-[![Dependency Status](https://david-dm.org/mpneuried/nodecache.svg)](https://david-dm.org/mpneuried/nodecache)
-[![NPM version](https://badge.fury.io/js/node-cache.svg)](http://badge.fury.io/js/node-cache)
-[![Coveralls Coverage](https://img.shields.io/coveralls/mpneuried/nodecache.svg)](https://coveralls.io/github/mpneuried/nodecache)
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tcs-de/nodecache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-[![NPM](https://nodei.co/npm/node-cache.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-cache/)
+## A simple promise wrapper around [node-cache](https://www.npmjs.com/package/node-cache)
+FYI: this is old and you probably shouldn't be using this, but I won't take it down.
 
 # Simple and fast NodeJS internal caching.
 
